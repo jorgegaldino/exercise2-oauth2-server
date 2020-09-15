@@ -1,2 +1,2 @@
 # exercise2-oauth2-server
-Oauth2-server
+Spring-Oauth2-server
